@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sudoku Game", "Sudoku Game\Sudoku Game.vcxproj", "{88286F46-C407-4E7A-954A-3535A514A535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88286F46-C407-4E7A-954A-3535A514A535}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88286F46-C407-4E7A-954A-3535A514A535}.Debug|Win32.Build.0 = Debug|Win32
+		{88286F46-C407-4E7A-954A-3535A514A535}.Release|Win32.ActiveCfg = Release|Win32
+		{88286F46-C407-4E7A-954A-3535A514A535}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
